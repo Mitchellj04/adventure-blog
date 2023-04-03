@@ -1,0 +1,55 @@
+.navbar{
+    width: 100%;
+    height: 50px;
+    background: rgb(255, 255, 255);
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+    z-index: 999;
+}
+
+.navleft, .navright{
+    flex: 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navcenter{
+    flex: 6;
+}
+
+.navleft{
+    font-size: 30px;
+    margin-right: 10px;
+    color: blue;
+}
+
+.navlist{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.navlistitem{
+    margin-right: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.navsearch{
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.titleSearch{
+    border:none;
+}
+
+.searchButton{
+    border:none;
+    background: none;
+}

@@ -1,0 +1,45 @@
+.about{
+    flex: 3;
+    margin: 20px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.aboutItem{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.aboutTitle{
+    margin: 10px;
+    padding: 5px;
+    width: 80%;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    font-size: 15px;
+    font-weight: 600px;
+    text-align: center;
+}
+
+.aboutItem > p{
+    padding: 15px;
+}
+
+.aboutItem > img {
+    margin: 10px
+}
+
+.aboutList{
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.listItem{
+    display: inline-block;
+    width: 50%;
+    margin-top: 10px;
+}
