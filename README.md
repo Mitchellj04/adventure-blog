@@ -106,7 +106,7 @@ The create page is where new blog posts are added. With the ability to add a tit
 ### Contact 
 The contact page is just so people can contact me with any trips that they have been on they would want me to add to the blog. Or even individuals who share in some of the same interests that may want to plan a trip in the future for us to go on. 
 
-##Contact 
+## Contact 
 
 Justin Mitchell 
 
